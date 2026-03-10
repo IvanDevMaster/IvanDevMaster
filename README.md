@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ivan 👋
 
-<!--
-**IvanDevMaster/IvanDevMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 4+ years of commercial experience.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React, Next.js
+- Vue, Nuxt
+- TypeScript
+- Redux Toolkit, Pinia
+- REST API, WebSocket
+- Vite, Webpack, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+I work on web platforms including marketplaces, event management systems and streaming services.
+
+Most of my commercial work is located in private repositories or under NDA.
+
+Here I publish pet projects and technical demos.## Hi there 👋
